@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tool Count](https://img.shields.io/badge/Tool%20count-37-10b981?style=classic)
+![Tool Count](https://img.shields.io/badge/Tool%20count-50-10b981?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/maxbogo/awesome-ai-tools-for-ui?label=Last%20update&style=classic)](https://github.com/maxbogo/awesome-ai-tools-for-ui)
 
 </div>
@@ -56,6 +56,11 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Three.js Skills](https://github.com/CloudAI-X/threejs-skills?utm_source=awesome-ai-tools-for-ui) - Collection of Three.js skills covering scenes, geometry, lighting, shaders, loaders, animation, and interaction.
 - [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md/?utm_source=awesome-ai-tools-for-ui) - Curated collection of DESIGN.md files inspired by developer-focused websites.
 - [StyleSeed](https://github.com/bitjaru/styleseed?utm_source=awesome-ai-tools-for-ui) - Design rules and slash-command skills that give agents design judgment — coherence, hierarchy, UX-writing.
+- [Claude Code Design Review Workflow](https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review?utm_source=awesome-ai-tools-for-ui) - Templates, subagent prompt, and slash command for automated design reviews against frontend changes.
+- [Huashu Design](https://github.com/alchaincyf/huashu-design?utm_source=awesome-ai-tools-for-ui) - HTML-native design skill for generating prototypes, slides, animations, and design reviews from agent prompts.
+- [Nothing Design Skill](https://github.com/dominikmartn/nothing-design-skill?utm_source=awesome-ai-tools-for-ui) - Claude Code skill for producing Nothing-inspired monochrome, typographic, industrial UI.
+- [Hallmark](https://github.com/nutlope/hallmark?utm_source=awesome-ai-tools-for-ui) - Design skill for Claude Code, Cursor, and Codex that audits and generates UI against anti-slop design gates.
+- [Material Design 3 Skill](https://github.com/hamen/material-3-skill?utm_source=awesome-ai-tools-for-ui) - Portable Material Design 3 skill covering tokens, theming, 30+ components, responsive layout, and MD3 audits.
 
 ## Apps
 
@@ -93,6 +98,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Realtime Colors](https://www.realtimecolors.com/?utm_source=awesome-ai-tools-for-ui) - Preview color palettes and typography on a live website mockup.
 - [Transitions.dev](https://transitions.dev/?utm_source=awesome-ai-tools-for-ui) - Copy-and-paste transition patterns for common web app interactions.
 - [Beautiful HTML Templates](https://github.com/zarazhangrui/beautiful-html-templates?utm_source=awesome-ai-tools-for-ui) - Agent-ready library of reusable HTML slide templates for generating polished decks.
+- [daisyUI](https://daisyui.com/?utm_source=awesome-ai-tools-for-ui) - Tailwind CSS component library with semantic class names, themes, and an official MCP server for AI editors.
 
 ## Resources
 
