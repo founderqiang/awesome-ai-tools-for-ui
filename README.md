@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tool Count](https://img.shields.io/badge/Tool%20count-50-10b981?style=classic)
+![Tool Count](https://img.shields.io/badge/Tool%20count-51-10b981?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/maxbogo/awesome-ai-tools-for-ui?label=Last%20update&style=classic)](https://github.com/maxbogo/awesome-ai-tools-for-ui)
 
 </div>
@@ -99,6 +99,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Transitions.dev](https://transitions.dev/?utm_source=awesome-ai-tools-for-ui) - Copy-and-paste transition patterns for common web app interactions.
 - [Beautiful HTML Templates](https://github.com/zarazhangrui/beautiful-html-templates?utm_source=awesome-ai-tools-for-ui) - Agent-ready library of reusable HTML slide templates for generating polished decks.
 - [daisyUI](https://daisyui.com/?utm_source=awesome-ai-tools-for-ui) - Tailwind CSS component library with semantic class names, themes, and an official MCP server for AI editors.
+- [Paper Shaders](https://github.com/paper-design/shaders?utm_source=awesome-ai-tools-for-ui) - Zero-dependency canvas shaders for adding customizable animated backgrounds, textures, and masked effects to websites.
 
 ## Resources
 
